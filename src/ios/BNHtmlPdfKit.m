@@ -190,8 +190,8 @@
 		self.landscape = NO;
 
 		// Default 1/4" margins
-		self.topAndBottomMarginSize = 0.25f * 72.0f;
-		self.leftAndRightMarginSize = 0.25f * 72.0f;
+		self.topAndBottomMarginSize = 0;//0.25f * 72.0f;
+		self.leftAndRightMarginSize = 0;//0.25f * 72.0f;
 	}
 	return self;
 }
@@ -202,8 +202,8 @@
 		self.landscape = NO;
 
 		// Default 1/4" margins
-		self.topAndBottomMarginSize = 0.25f * 72.0f;
-		self.leftAndRightMarginSize = 0.25f * 72.0f;
+		self.topAndBottomMarginSize = 0;//0.25f * 72.0f;
+		self.leftAndRightMarginSize = 0;//0.25f * 72.0f;
 	}
 	return self;
 }
@@ -214,8 +214,8 @@
 		self.landscape = landscape;
 
 		// Default 1/4" margins
-		self.topAndBottomMarginSize = 0.25f * 72.0f;
-		self.leftAndRightMarginSize = 0.25f * 72.0f;
+		self.topAndBottomMarginSize = 0;//0.25f * 72.0f;
+		self.leftAndRightMarginSize = 0;//0.25f * 72.0f;
 	}
 	return self;
 }
@@ -227,8 +227,8 @@
 		self.landscape = NO;
 
 		// Default 1/4" margins
-		self.topAndBottomMarginSize = 0.25f * 72.0f;
-		self.leftAndRightMarginSize = 0.25f * 72.0f;
+		self.topAndBottomMarginSize = 0;//0.25f * 72.0f;
+		self.leftAndRightMarginSize = 0;//0.25f * 72.0f;
 	}
 	return self;
 }

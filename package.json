@@ -1,16 +1,16 @@
 {
   "name": "cordova-pdf-generator",
-  "version": "0.9.5",
+  "version": "0.0.1",
   "description": "is a HTML to PDF (offline) Generator.",
   "cordova": {
-    "id": "com.html2pdf.generator",
+    "id": "com.aim.html2pdf.generator",
     "platforms": [
       "ios"
     ]
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/cesarvr/pdf-generator.git"
+    "url": "git+https://github.com/phopkrit/pdf-generator-zero-padding.git"
   },
   "keywords": [
     "ecosystem:cordova",
